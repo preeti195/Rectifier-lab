@@ -1,0 +1,6 @@
+{
+  "name": "RectifierLab - Power Electronics Studio",
+  "description": "Interactive Single-Phase and Three-Phase Diode & Thyristor Rectifier Simulation with animated schematics, waveforms, harmonic FFT, and mathematical derivations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
